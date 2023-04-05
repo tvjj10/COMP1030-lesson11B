@@ -1,0 +1,15 @@
+D:\School\Comp1030-Programming Fund\Lesson 11\Interface\bin\Debug\net7.0\Interface.exe
+D:\School\Comp1030-Programming Fund\Lesson 11\Interface\bin\Debug\net7.0\Interface.deps.json
+D:\School\Comp1030-Programming Fund\Lesson 11\Interface\bin\Debug\net7.0\Interface.runtimeconfig.json
+D:\School\Comp1030-Programming Fund\Lesson 11\Interface\bin\Debug\net7.0\Interface.dll
+D:\School\Comp1030-Programming Fund\Lesson 11\Interface\bin\Debug\net7.0\Interface.pdb
+D:\School\Comp1030-Programming Fund\Lesson 11\Interface\obj\Debug\net7.0\Interface.csproj.AssemblyReference.cache
+D:\School\Comp1030-Programming Fund\Lesson 11\Interface\obj\Debug\net7.0\Interface.GeneratedMSBuildEditorConfig.editorconfig
+D:\School\Comp1030-Programming Fund\Lesson 11\Interface\obj\Debug\net7.0\Interface.AssemblyInfoInputs.cache
+D:\School\Comp1030-Programming Fund\Lesson 11\Interface\obj\Debug\net7.0\Interface.AssemblyInfo.cs
+D:\School\Comp1030-Programming Fund\Lesson 11\Interface\obj\Debug\net7.0\Interface.csproj.CoreCompileInputs.cache
+D:\School\Comp1030-Programming Fund\Lesson 11\Interface\obj\Debug\net7.0\Interface.dll
+D:\School\Comp1030-Programming Fund\Lesson 11\Interface\obj\Debug\net7.0\refint\Interface.dll
+D:\School\Comp1030-Programming Fund\Lesson 11\Interface\obj\Debug\net7.0\Interface.pdb
+D:\School\Comp1030-Programming Fund\Lesson 11\Interface\obj\Debug\net7.0\Interface.genruntimeconfig.cache
+D:\School\Comp1030-Programming Fund\Lesson 11\Interface\obj\Debug\net7.0\ref\Interface.dll
